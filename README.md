@@ -84,8 +84,7 @@ OPENAI_API_KEY=your-openai-api-key
 
 ---
 ## Note
--make sure to install all the frontend packages, since the folder is too big to upload even in zip file. and replace src
-or just download from this drive link (https://drive.google.com/file/d/1ZSQTgAk4Pmf-fTUFEbTCyUkz9V8CbCco/view?usp=sharing)
+-just download from this drive link (https://drive.google.com/file/d/1ZSQTgAk4Pmf-fTUFEbTCyUkz9V8CbCco/view?usp=sharing)
 
 ## 🤝 Credits
 
