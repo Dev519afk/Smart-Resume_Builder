@@ -82,8 +82,7 @@ OPENAI_API_KEY=your-openai-api-key
 - Hosted deployment with form-saving capabilities  
 
 ---
-## Note
--just download from this drive link (https://drive.google.com/file/d/1ZSQTgAk4Pmf-fTUFEbTCyUkz9V8CbCco/view?usp=sharing)
+
 
 ## 🤝 Credits
 
