@@ -18,10 +18,9 @@ Smart Resume Builder is a sleek, modern, and responsive React application that h
 
 ## ⚙️ Getting Started
 
-### 1. Clone the repo
+### 1. Download zip file from drive
 ```bash
-git clone https://github.com/your-username/smart-resume-builder.git
-cd smart-resume-builder
+(https://drive.google.com/file/d/1ZSQTgAk4Pmf-fTUFEbTCyUkz9V8CbCco/view?usp=sharing)
 ```
 
 ---
