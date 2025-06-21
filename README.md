@@ -83,6 +83,8 @@ OPENAI_API_KEY=your-openai-api-key
 - Hosted deployment with form-saving capabilities  
 
 ---
+## Note
+-make sure to install all the frontend packages, since the folder is too big to upload even in zip file. and replace src
 
 ## 🤝 Credits
 
