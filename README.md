@@ -14,22 +14,7 @@ Smart Resume Builder is a sleek, modern, and responsive React application that h
 
 ---
 
-## 📂 Project Structure
 
-```
-smart-resume-builder/
-├── backend/
-│   ├── index.js         # Express server with OpenAI + PDF endpoints
-│   └── .env             # OpenAI API key
-├── frontend/
-│   ├── src/
-│   │   ├── App.js       # Main resume builder component
-│   │   └── App.css      # Dark theme + responsive styling
-│   └── public/
-├── README.md
-```
-
----
 
 ## ⚙️ Getting Started
 
@@ -47,10 +32,6 @@ cd backend
 npm install
 ```
 
-#### Create a `.env` file in `backend/`:
-```env
-OPENAI_API_KEY=sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXX
-```
 
 #### Run the backend server:
 ```bash
